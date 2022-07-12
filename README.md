@@ -16,15 +16,15 @@ Number of Test Data :
 
 ...........................................................
  1. USER ACCOUNT
-      - Register
-      - Login
-      - ADD Account
-      - Verify Account
+      - TC01_Register
+      - TC02_Login
+      - TC03_ADD Account
+      - TC04_Verify Account
  2. Transaction
-      - Make Deposit
-      - Make Transfer
-      - Make A Payment
-      - Check Detail Transaction Account
+      - TC05_Make Deposit
+      - TC06_Make Transfer
+      - TC07_Make A Payment
+      - TC08_Check Detail Transaction Account
 
 
 Test Suites :
