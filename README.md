@@ -51,7 +51,6 @@ Test Suites :
       - TC Register
       - TC Login
 
- <img src="https://github.com/yusufrajatamba/FinalProjectKatalon_Mobile/blob/main/IMG/Screenshot%20(93).png?raw=true">
       
 **How To Uses :**
 
@@ -66,3 +65,17 @@ Test Suites :
         5. Open Report if you want see and share the result
 
 **Test Scenarios are in excel to help you understand test case flow**
+
+**Project Photo Attachment**
+
+1. Total Test with Katalon Ops
+ <img src="https://github.com/yusufrajatamba/FinalProjectKatalon_Mobile/blob/main/IMG/Screenshot%20(93).png?raw=true">
+
+2. Report Test Suites
+ <img src="https://github.com/yusufrajatamba/FinalProjectKatalon_Mobile/blob/main/IMG/img%20report1.png?raw=true">
+
+3. Report Test Suites 
+ <img src="https://github.com/yusufrajatamba/FinalProjectKatalon_Mobile/blob/main/IMG/img%20report2.png?raw=true">
+
+**Note :**
+ >> Test Case Login failed Because there was one verify step which failed to find the object, but did not affect the next step
