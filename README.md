@@ -51,6 +51,7 @@ Test Suites :
       - TC Register
       - TC Login
 
+ <img src="https://github.com/yusufrajatamba/FinalProjectKatalon_Mobile/blob/main/IMG/Screenshot%20(93).png?raw=true">
       
 **How To Uses :**
 
